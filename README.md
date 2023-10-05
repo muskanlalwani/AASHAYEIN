@@ -7,8 +7,8 @@ The word itself states the clear motive of our application "HOPE"🏆
 Aashayein is an android app built with the motive to help specially-need students to let them find the best resources near them. The app allows users to login/signup and then choose their category of disorder and filter by places they live. The app in return displays the nearest resources available. The resources shown in our app are all well-researched and are RBI verified.
 
 ## Screenshots
-
-![Apple iPhone 11 Pro Max Presentation (1)](https://github.com/muskanlalwani/AASHAYEIN/assets/80694201/b0cc8a13-b52c-4e26-9f77-77e1f94181a1)
+![Apple iPhone 11 Pro Max Presentation (2)](https://github.com/muskanlalwani/AASHAYEIN/assets/80694201/eb665728-330d-46a6-bb0c-65ebf665a2f1)
+![Apple iPhone 11 Pro Max Presentation (3)](https://github.com/muskanlalwani/AASHAYEIN/assets/80694201/cda79dcd-8338-4f00-9308-9cfeac6310fd)
 
 ## Installation
 
