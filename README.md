@@ -1,16 +1,40 @@
-# rehabcentre
 
-A new Flutter project.
+# AASHAYEIN
 
-## Getting Started
+    🌟 Aashayein - Empowering Dreams, Igniting Futures! 🔥
 
-This project is a starting point for a Flutter application.
+The word itself states the clear motive of our application "HOPE"🏆
+Aashayein is an android app built with the motive to help specially-need students to let them find the best resources near them. The app allows users to login/signup and then choose their category of disorder and filter by places they live. The app in return displays the nearest resources available. The resources shown in our app are all well-researched and are RBI verified.
 
-A few resources to get you started if this is your first Flutter project:
+## Installation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Install AASHAYEIN
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+```bash
+  Clone repo
+```
+Import all Dependencies
+```bash
+  flutter pub get
+  flutter pub upgrade
+```
+Connect to Device
+```bash
+  Run without debugging
+```
+
+
+    
+## Features
+
+- Easy navigation and toggle
+- Choose from the list of RBI verified centres
+- Book appointments
+- Check upon the progress through history of appointments
+- Two -Factor authentication to secure personal details
+
+
+## 🚀 Collaborators
+ - Arjita Chourasia
+ - Muskan Lalwani
+
